@@ -1,6 +1,6 @@
 # PART 1
 
-# f = open("Day2.txt", 'r')
+# f = open("Inputs//Day2.txt", 'r')
 #
 # twoCount = 0
 # threeCount = 0
@@ -34,7 +34,7 @@
 
 # PART 2
 
-f = open("Day2.txt", 'r')
+f = open("Inputs//Day2.txt", 'r')
 
 data = []
 
